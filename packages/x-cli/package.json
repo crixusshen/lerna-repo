@@ -1,6 +1,6 @@
 {
   "name": "@crixusshen/x-cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "lib/main.js",
   "scripts": {
@@ -23,5 +23,8 @@
     "files": [
       "lib/**/*.spec.js"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
