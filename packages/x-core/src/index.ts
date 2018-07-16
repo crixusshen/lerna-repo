@@ -1,3 +1,3 @@
 export function awesomeFn() {
-  console.log("Hello Fastman22");
+  console.log("Hello Fastman ！");
 }
