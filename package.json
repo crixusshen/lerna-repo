@@ -6,7 +6,7 @@
 		"test": "lerna run test",
 		"prepare": "lerna run prepare",
 		"clean": "rimraf packages/**/lib",
-		"publish3": "lerna publish"
+		"publish3": "lerna publish --independent"
 	},
 	"devDependencies": {
 		"@types/node": "^8.0.28",
