@@ -1,0 +1,29 @@
+{
+  "name": "@crixusshen/x-serve",
+  "version": "2.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ava",
+    "prepare": "tsc -p tsconfig.build.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.0.28",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "typescript": "^2.5.2"
+  },
+  "ava": {
+    "files": [
+      "lib/**/*.spec.js"
+    ]
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

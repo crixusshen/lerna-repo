@@ -1,11 +1,12 @@
 {
-	"name": "@crixusshen/x-core",
+	"name": "@crixusshen/x",
 	"version": "1.3.0",
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
 		"test": "lerna run test",
 		"prepare": "lerna run prepare",
-		"clean": "rimraf packages/**/lib"
+		"clean": "rimraf packages/**/lib",
+		"publish3": "lerna publish"
 	},
 	"devDependencies": {
 		"@types/node": "^8.0.28",
