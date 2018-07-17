@@ -12,7 +12,9 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^8.0.28",
-    "minimist": "^1.2.0"
+    "@types/react": "^16.4.6",
+    "minimist": "^1.2.0",
+    "react": "^16.4.1"
   },
   "devDependencies": {
     "ava": "^0.22.0",

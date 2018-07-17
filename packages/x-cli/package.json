@@ -1,6 +1,6 @@
 {
   "name": "@crixusshen/x-cli",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "",
   "main": "lib/main.js",
   "scripts": {
@@ -11,9 +11,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@crixusshen/x-core": "^2.0.5",
+    "@crixusshen/x-core": "^2.0.7",
     "@types/node": "^8.0.28",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "react": "^16.4.1"
   },
   "devDependencies": {
     "ava": "^0.22.0",
