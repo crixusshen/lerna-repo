@@ -1,6 +1,6 @@
 {
   "name": "@crixusshen/x-cli",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "description": "",
   "main": "lib/main.js",
   "scripts": {
