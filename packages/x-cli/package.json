@@ -1,6 +1,7 @@
 {
   "name": "@crixusshen/x-cli",
-  "version": "2.2.1",
+  "private": true,
+  "version": "2.2.2",
   "description": "",
   "main": "lib/main.js",
   "repository": {
